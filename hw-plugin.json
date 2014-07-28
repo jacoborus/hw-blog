@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "Blog base admin for Hardwire CMS",
+  "author": "Jacobo Tabernero <jacobo@xarope.eu> (http://xarope.eu)",
+  "keywords": [
+    "admin",
+    "blog"
+  ],
+  "engine": "^0.0.24"
+}

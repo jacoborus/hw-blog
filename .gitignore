@@ -1,0 +1,11 @@
+!.gitkeep
+!.gitme
+.subl
+node_modules
+conf.json
+bower_components
+datapack
+.gulp*
+boilerplates/**/app/public
+npm-debug.log
+build

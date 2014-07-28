@@ -1,0 +1,19 @@
+{
+  "name": "hw-blog",
+  "version": "0.0.1",
+  "description": "Blog plugin for Hardwire CMS",
+  "keywords": [
+    "CMS"
+  ],
+  "url": "https://github.com/jacoborus/hw-base",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jacoborus/hw-base.git"
+  },
+  "dependencies": {
+    "submitter": "^0.0.6",
+    "nanobar": "^0.2.0"
+  },
+  "author": "Jacobo Tabernero - jacoborus - jacobo@xarope.eu",
+  "license": "MIT"
+}
