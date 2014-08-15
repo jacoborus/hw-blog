@@ -1,6 +1,6 @@
 {
   "name": "hw-blog",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Blog plugin for Hardwire CMS",
   "keywords": [
     "hardwire",
@@ -16,7 +16,5 @@
   "license": "MIT",
   "dependencies": {
     "safename": "0.0.4"
-  },
-  "_hwPlugin": "blog",
-  "_hwEngine": "^0.0.30"
+  }
 }
